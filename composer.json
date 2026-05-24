@@ -1,0 +1,19 @@
+{
+    "name": "d3sw/sferalabs-processing-sdks",
+    "description": "Processing App SDK",
+    "require": {
+        "php": "^7.4|^8.0",
+        "guzzlehttp/guzzle": ">=7.3",
+        "ext-json": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "classmap": [
+            "src"
+        ],
+        "psr-4": {
+            "SferalabsProcessingSDK\\": "src/"
+        }
+    }
+}
