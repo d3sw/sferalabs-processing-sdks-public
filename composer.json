@@ -1,5 +1,5 @@
 {
-    "name": "d3sw/sferalabs-processing-sdks",
+    "name": "d3sw/sferalabs-processing-sdks-public",
     "description": "Processing App SDK",
     "require": {
         "php": "^7.4|^8.0",
